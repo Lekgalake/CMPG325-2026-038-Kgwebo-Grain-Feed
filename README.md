@@ -1,5 +1,13 @@
 # CMPG 325 Network Project
 
+## 🎯 Milestone 2: Client Implementation Review
+**Quick Links for Assessor:**
+- 📁 **Packet Tracer File:** [Milestone2_Kgwebo.pkt](./packet-tracer/Milestone2_Kgwebo.pkt)
+- ⚙️ **Device Configurations:** [configuration.md](./configuration/configuration.md)
+- 📸 **Testing Evidence & Screenshots:** [testing.md](./testing/testing.md)
+
+---
+
 ## Kgwebo Grain & Feed (Klerksdorp)
 
 ### Project Information
